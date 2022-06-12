@@ -12,3 +12,8 @@ While working on tooling that involves introspecting large amounts of HTML and C
 ```
 
 This is not published on npm, so for the time being I'd recommend simply copy/pasting the file into your project directly.
+
+This may eventually be expanded to include:
+* Information on shorthand properties
+* Links to MDN articles
+* A "related properties" field to allow indexing property types commonly used together.
